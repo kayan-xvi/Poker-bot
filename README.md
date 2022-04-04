@@ -20,7 +20,7 @@ The categories of the files' progress is as follows:
 - HU_Handstrength3.1 - HU_Handstrength3.2
   - This uses a combination of the 2 above and compares the strengths of the player and computer hands throughout a full hand, ending on showdown 
 
-- Five_card_draw5.1 
+- Five_card_draw5.1 and All_possible4.1
   - This takes all of the possible cominations of hands and puts it into a dictionary of the types: {type(as a number as per my sorting system) : occurances} 
   - The main problem with this is the max number for my dictionary storage being 1,098,240 (at least ins VSCode) 
   - And it takes a little while to run 
